@@ -9,7 +9,8 @@
 </template>
 
 <script>
-import colorPicker from "./composables/ColorPickerGame";
+
+import colorPicker from "../composables/colorPickerGame";
 
 export default {
   setup(){
